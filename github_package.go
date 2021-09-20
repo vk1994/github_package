@@ -1,4 +1,4 @@
-package printer
+package github_package
 
 import "fmt"
 
